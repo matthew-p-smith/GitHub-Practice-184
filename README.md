@@ -36,6 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003      | mdbeckman            | <https://mdbeckman.github.io/>    |  
 | Matt Beckman      | Section 004      | mdbeckman             | <https://mdbeckman.github.io/Beckman-Repo-Demo/>  |
+| Matt Smith        | Section 003      | matthew-p-smith      | <https://matthew-p-smith.github.io/Stat-184-GitHub-Intro-Assg/> |
 
 
 <br>
